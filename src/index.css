@@ -1,0 +1,33 @@
+/* Estilos globais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Estilização do componente Extrato */
+  .search-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Estilização do componente Transferencia */
+  .transferencia-item {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  /* Estilização da tabela de transferências */
+  .transferencias-table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .table-header {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+  
